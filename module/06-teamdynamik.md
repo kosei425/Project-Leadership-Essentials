@@ -8,12 +8,12 @@ Ein Team meldet Risiken eher früh, wenn Fragen und Fehler ohne persönliche Blo
 
 Im Praxisfall meldet das Werk eine mögliche Abweichung erst im Statusmeeting. Zuerst klären, ob das Signal vorher erkennbar war, welche Folgen frühes Melden bisher hatte und wer eine Entscheidung treffen kann.
 
-## 90 Minuten
+## Persönliche Lerneinheit (ca. 60 Minuten)
 
 1. **10 Min – Check-in:** Was passiert bei uns, wenn jemand einen Fehler früh meldet?
 2. **15 Min – Input:** Teamlernen, konstruktiver Widerspruch, Motivation und klare Standards.
 3. **25 Min – Fallanalyse:** Drei mögliche Ursachen für spätes Melden prüfen: unklare Meldegrenze, negative Reaktion oder fehlende Handlungsoption.
-4. **25 Min – Simulation:** PM moderiert eine Risiko-Runde. Jede Funktion nennt ein Risiko und einen benötigten Entscheid; PM bedankt sich für frühe Signale und klärt Eigentümer sowie Termin.
+4. **25 Min – Simulation:** Lass ChatGPT Entwicklung, Einkauf und Werk mit je einem Risiko spielen. Modere die Risiko-Runde, kläre Eigentümer, Entscheidung und Termin; bitte anschließend um kritisches Feedback.
 5. **15 Min – Transfer:** eine Teamroutine ändern.
 
 ## Teamcheck

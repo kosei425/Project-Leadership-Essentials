@@ -8,12 +8,12 @@ Delegation umfasst **Ergebnis, verantwortliche Person, Entscheidungsspielraum, T
 
 „Extreme Ownership“ ist ein nützlicher Impuls zur Selbstprüfung, aber kein Grund, fremde Entscheidungen oder strukturelle Ressourcenkonflikte zu verschleiern. Fehlende Kapazität gehört auf den Entscheidungstisch.
 
-## 90 Minuten
+## Persönliche Lerneinheit (ca. 60 Minuten)
 
 1. **10 Min – Einstieg:** Welche Aufgabe hat der PM zuletzt zurückgenommen?
 2. **15 Min – Input:** Delegation, Verantwortungsübernahme und wirksame Kontrollpunkte.
 3. **25 Min – Fallarbeit:** Übergabe der Werkzeugbestellung vom PM an Einkauf formulieren; Freigabegrenze und Lieferantenschnittstelle berücksichtigen.
-4. **25 Min – Rollenspiel:** Einkauf sagt „Ich kümmere mich“. PM fragt Ergebnis, Termin und Warnsignal ab, ohne operative Schritte vorzuschreiben.
+4. **25 Min – Gesprächssimulation:** ChatGPT spielt Einkauf und sagt „Ich kümmere mich“. Frage Ergebnis, Termin und Warnsignal ab, ohne operative Schritte vorzuschreiben.
 5. **15 Min – Transfer:** ein eigenes Arbeitspaket delegieren.
 
 ## Delegationsauftrag

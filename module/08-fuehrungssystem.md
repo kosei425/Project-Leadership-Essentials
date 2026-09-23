@@ -6,12 +6,12 @@
 
 Ein Führungssystem verbindet Ziele, Rollen, Gespräche, Nachhalten, Entscheidungen und Lernen. Es muss leicht genug sein, um auch im Anlaufstress zu funktionieren. Ein Meeting ohne klare Entscheidungen und Eigentümer ist nur ein Termin im Kalender.
 
-## 90 Minuten
+## Persönliche Lerneinheit (ca. 60 Minuten)
 
 1. **10 Min – Rückblick:** Was änderte sich in den Transferübungen tatsächlich?
 2. **15 Min – Input:** wöchentlicher Führungsrhythmus, Entscheidungsliste, 1:1 und Rückblick.
-3. **25 Min – Bauphase:** Jede Person legt drei Routinen, Verantwortliche und Artefakte fest.
-4. **25 Min – Abschlusssimulation:** Kunde fordert Recovery Plan. PM moderiert 10 Minuten: Risiken, Optionen, Verantwortliche, Entscheidung und Kommunikation zum Kunden. Kollegiales Feedback nach der Checkliste unten.
+3. **25 Min – Bauphase:** Lege drei Routinen, Verantwortliche und Artefakte fest.
+4. **25 Min – Abschlusssimulation:** ChatGPT spielt Kernteam und Kunde mit Recovery-Plan-Forderung. Modere 10 Minuten zu Risiken, Optionen, Verantwortlichen, Entscheidung und Kundenkommunikation; fordere danach Feedback anhand der Checkliste an.
 5. **15 Min – Verpflichtung:** 30-Tage-Experiment und Review-Termin festlegen.
 
 ## Persönlicher 30-Tage-Plan
@@ -25,4 +25,4 @@ Ein Führungssystem verbindet Ziele, Rollen, Gespräche, Nachhalten, Entscheidun
 
 **Abschlusscheck:** Sind Ziel und Priorität klar? Hat jedes Ergebnis eine verantwortliche Person? Sind Entscheidungen und Freigaben geklärt? Gibt es einen Frühwarntermin? Wird nach 30 Tagen an beobachtbaren Beispielen geprüft, ob die Führung besser wirkt?
 
-**Lernnachweis:** Fünf-Minuten-Demonstration anhand eines eigenen Falles. Partner geben je ein Beispiel für klare Führung und eine offene Entscheidungsfrage zurück.
+**Lernnachweis:** Fünf-Minuten-Demonstration anhand eines eigenen Falles. Bitte ChatGPT um ein Beispiel für klare Führung und eine offene Entscheidungsfrage; beurteile das Feedback selbst.

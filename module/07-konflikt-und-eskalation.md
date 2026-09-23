@@ -8,12 +8,12 @@ Zuerst Sachverhalt, Interessen und Entscheidungsspielraum klären. Ein Terminbru
 
 **Eskalationsstruktur:** Situation → Auswirkung → bereits unternommene Schritte → Optionen → benötigte Entscheidung mit Frist. Eine Eskalation nennt keine Schuldigen, sondern macht einen Zielkonflikt entscheidbar.
 
-## 90 Minuten
+## Persönliche Lerneinheit (ca. 60 Minuten)
 
 1. **10 Min – Einstieg:** Einkauf und Entwicklung geben sich gegenseitig die Schuld am Termin.
 2. **15 Min – Input:** Beobachtung und Interpretation trennen; Interessen hinter Positionen erfragen.
-3. **30 Min – Rollenspiel:** PM führt ein Gespräch mit beiden Funktionen, fasst Interessen zusammen und vereinbart eine nächste Handlung. Rollen wechseln.
-4. **20 Min – Eskalation:** Linienleitungen setzen andere Prioritäten. Jede Gruppe schreibt eine Entscheidungsnotiz mit maximal 120 Wörtern und zwei Optionen.
+3. **30 Min – Gesprächssimulation:** ChatGPT spielt beide Funktionen. Du fasst Interessen zusammen und vereinbarst eine nächste Handlung; danach Gegenperspektive prüfen.
+4. **20 Min – Eskalation:** Linienleitungen setzen andere Prioritäten. Schreibe eine Entscheidungsnotiz mit maximal 120 Wörtern und zwei Optionen.
 5. **15 Min – Transfer:** persönliche Eskalationsschwelle festlegen.
 
 ## Entscheidungsnotiz

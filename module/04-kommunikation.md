@@ -8,12 +8,12 @@ Fünf Elemente einer Projektvereinbarung: **Situation → erwartetes Ergebnis �
 
 Feedback zu versäumten Zusagen trennt Beobachtung, Auswirkung, Perspektive des Gegenübers und neue Vereinbarung. Beispiel: „Die Freigabe war für Dienstag zugesagt und liegt am Donnerstag noch nicht vor. Dadurch kann Einkauf nicht bestellen. Was steht im Weg? Welche Freigabe ist bis wann realistisch, und wen brauchen wir dazu?“
 
-## 90 Minuten
+## Persönliche Lerneinheit (ca. 60 Minuten)
 
 1. **10 Min – Diagnose:** Die Aussage „Bitte die Zeichnung zeitnah klären“ auf Mehrdeutigkeiten prüfen.
 2. **15 Min – Input:** Gesprächsstruktur, offene Fragen, Zusammenfassen, Feedback ohne Motive zu unterstellen.
 3. **25 Min – Umschreiben:** Ein vages Statusmeeting-Protokoll in drei klare Vereinbarungen übersetzen.
-4. **25 Min – Rollenspiel:** PM bittet um Freigabe; Gegenüber nennt eine konkurrierende Priorität. Beobachter markiert Frage, bestätigte Zusage und Abweichungssignal.
+4. **25 Min – Gesprächssimulation:** Bitte um Freigabe; ChatGPT spielt ein Gegenüber mit konkurrierender Priorität. Prüfe danach Frage, bestätigte Zusage und Abweichungssignal.
 5. **15 Min – Transfer:** ein echtes Gespräch in zwei Sätzen vorbereiten.
 
 ## Gesprächskarte

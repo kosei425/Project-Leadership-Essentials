@@ -1,6 +1,6 @@
-# Wissensquellen · Project Leadership Essentials
+# Wissensquellen · Persönlicher PM-Lernpfad
 
-**Stand: 23.09.2026.** Index der 40 im Kurskonzept ausgewählten Wissensquellen. Die IDs B01–B10, V01–V10, A01–A10 und P01–P10 sind stabile Querverweise aus den Modulen. **Modul** bezeichnet den wichtigsten Einsatz, nicht die einzige Verwendung. Bücher sind bibliografisch angegeben; Beschaffung und Ausgabe hängen von Sprache und Verfügbarkeit ab. Bei Videos führt der Link zur offiziellen TED-Suche nach dem Talk, da einzelne Talk-URLs wechseln können. Artikel können hinter einer Bezahlschranke liegen. Links verweisen auf externe Inhalte; Volltexte und Videos werden hier nicht kopiert.
+**Stand: 23.09.2026.** Die ursprünglichen 40 Führungsquellen behalten ihre IDs B01–B10, V01–V10, A01–A10 und P01–P10. Ergänzungen: F für PM-Community-Diskussionen, M für Meeting-Praxis, D für Projektdaten. **M01–M08 in der Tabelle „Einsatz“ unten bezeichnen Führungsmodule und sind keine Quellen-IDs.** Bücher sind bibliografisch angegeben; Beschaffung und Ausgabe hängen von Sprache und Verfügbarkeit ab. Bei Videos führt der Link zur offiziellen TED-Suche. Artikel können hinter einer Bezahlschranke liegen. Links verweisen auf externe Inhalte; Volltexte und Videos werden hier nicht kopiert.
 
 ## Themenindex
 
@@ -13,7 +13,9 @@
 | Psychologische Sicherheit, Widerspruch | B05, A03, A04, V02, V07 |
 | Motivation | A10, V01, V06, V08 |
 | Verhandlung, Konflikt | B06, B07, V07 |
-| Projektführung und Power Skills | A06, A07, A08, A09, P02, P10 |
+| Projektführung und Power Skills | A06, A07, A08, A09, P02, P10, F01–F03 |
+| Meeting-Struktur und Moderation | M01–M05 |
+| Projektdaten, Master-Dateien, SharePoint | D01–D04 |
 
 ## Bücher · B
 
@@ -80,3 +82,32 @@ Diese zehn Einträge sind **Anlaufstellen für spätere Aktualisierungen**, kein
 ## Verwendung und Pflege
 
 Die Modultexte sind eigenständige didaktische Ausarbeitungen. Quellen beschreiben Hintergründe, nicht zwangsläufig empirische Belege für jede Übung. TED-Talks und Management-Fabeln dienen als Diskussionsimpulse. Für Aussagen zu Wirksamkeit und Teamlernen zuerst die Studien und PMI-Reports prüfen, Kontext und Grenzen benennen. Bei Aktualisierungen IDs beibehalten, Titel und URL prüfen und den Stand oben anpassen.
+
+## Ergänzung · Erfahrungen aus PM-Communities · F
+
+Community-Antworten zeigen mögliche Vorgehensweisen und Widersprüche, sind aber keine überprüften Standards. Für eigene Fälle nach Kontext, Mandat und Unternehmensregeln fragen.
+
+| ID | Diskussion | Nutzen |
+|---|---|---|
+| F01 | [ProjectManagement.com: Verantwortung für Ergebnis ohne formale Autorität](https://www.projectmanagement.com/discussion-topic/201594/how-do-you-approach-being-responsible-for-the-outcome-of-a-project--without-authority-?pageNum=1&sort=asc) | Mandat, Sponsor und Grenzen von Einfluss |
+| F02 | [ProjectManagement.com: Ressourcen in der Matrix anfordern](https://www.projectmanagement.com/discussion-topic/90480/how-do-you-efficiently-request-resources-for-your-projects-in-a-matrix-organization-?pageNum=1&sort=asc) | Vorlauf, Kapazitätsvereinbarung, frühe Warnsignale |
+| F03 | [ProjectManagement.com: Projekte ohne formale Autorität führen](https://www.projectmanagement.com/discussion-topic/221373/managing-projects-without-formal-authority--what-works-) | konkrete Erfahrungswege: Nutzen erklären, Prioritäten entscheiden lassen |
+
+## Ergänzung · Meeting-Struktur · M
+
+| ID | Fach-/Praxisquelle | Nutzen |
+|---|---|---|
+| M01 | [PMI: Keys to Effective Facilitation](https://www.pmi.org/learning/library/keys-effective-facilitation-6301) | Ziel, Agenda, Rollen und erwartete Aktion |
+| M02 | [PMI: The Project Meeting Facilitator](https://www.pmi.org/learning/library/project-meeting-facilitator-more-effective-7988) | Moderation, Beteiligung und Entscheidungsreife |
+| M03 | [PMI: Risk Talking Points](https://www.pmi.org/learning/library/risk-talking-points-communication-management-4281) | Risiko passend für Team oder Management aufbereiten |
+| M04 | [Atlassian Team Playbook: Inclusive Meetings](https://www.atlassian.com/team-playbook/plays/inclusive-meetings) | Agenda als Frage, Mitwirkung und eindeutige Folgeaktion |
+| M05 | [PMI: Projektbeispiel einer wöchentlichen Regelrunde](https://www.pmi.org/learning/library/project-management-office-it-success-6234) | Meilensteine, Risiken, Issues und Änderungsanträge; Fallbeispiel, kein Standard |
+
+## Ergänzung · Projektdaten · D
+
+| ID | Fach-/Praxisquelle | Nutzen |
+|---|---|---|
+| D01 | [Microsoft Learn: SharePoint Information Architecture](https://learn.microsoft.com/en-us/sharepoint/information-architecture-modern-experience) | Bibliotheken, Spalten und Metadaten zum Wiederfinden |
+| D02 | [Microsoft Learn: Versioning Basics and Best Practices](https://learn.microsoft.com/en-us/microsoft-365/community/versioning-basics-best-practices) | Versionsverlauf und Schutz vor Altständen |
+| D03 | [PMI: Configuration Management](https://www.pmi.org/learning/library/configuration-management-help-controlling-changes-7842) | kontrollierte Änderung und Baselines |
+| D04 | [PMI: Knowledge Management Success](https://www.pmi.org/learning/library/knowledge-management-success-generate-value-6656) | Einführung eines gemeinsamen Informationsortes im Team |

@@ -8,12 +8,12 @@
 
 **Arbeitsdefinition:** R = erstellt/liefert; A = trägt die Abschlussverantwortung; S = unterstützt; C = wird vor Entscheidung eingebunden; I = erhält Information. Pro Ergebnis genau eine benannte A-Rolle als Kursregel, sofern die Organisation nichts anderes vorgibt. Entscheidungsrecht und A-Rolle ausdrücklich prüfen; sie fallen nicht automatisch zusammen.
 
-## 90 Minuten
+## Persönliche Lerneinheit (ca. 60 Minuten)
 
-1. **10 Min – Diagnose:** „Die Zeichnung ist seit drei Wochen offen.“ Jede Person schreibt auf, wem sie bisher die Verantwortung zugeschrieben hätte.
+1. **10 Min – Diagnose:** „Die Zeichnung ist seit drei Wochen offen.“ Schreibe auf, wem sie bisher die Verantwortung zugeschrieben hätte.
 2. **15 Min – Input:** Arbeitsergebnis, Zuständigkeit, Entscheidungsrecht und Eskalationsweg auseinanderhalten.
 3. **30 Min – Fallarbeit:** Matrix für Zeichnungsfreigabe, Werkzeugbestellung und Terminänderung ausfüllen. Je Zeile einen Namen oder eine eindeutig besetzte Rolle eintragen; fehlende Rechte als offene Frage markieren.
-4. **20 Min – Simulation:** PM moderiert fünf Minuten Rollenklärung zwischen Entwicklung und Einkauf. Beide bestätigen Ergebnis, Übergabekriterium und Termin.
+4. **20 Min – Simulation:** Du moderierst eine simulierte Rollenklärung zwischen Entwicklung und Einkauf; ChatGPT spielt beide Gegenrollen. Halte Ergebnis, Übergabekriterium und Termin fest.
 5. **15 Min – Transfer:** eine reale Schnittstelle und den nächsten Klärungstermin auswählen.
 
 ## Vorlage

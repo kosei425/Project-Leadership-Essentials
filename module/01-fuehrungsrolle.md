@@ -1,6 +1,6 @@
 # 01 · Führungsrolle und Einfluss
 
-**Ziel:** Die Teilnehmenden unterscheiden Ergebnisverantwortung, formales Mandat und Einfluss. Sie formulieren, welche Entscheidungen sie selbst treffen und welche sie herbeiführen müssen. **Quellen:** [B01, B10, A01, A06, A08](../WISSENSQUELLEN.md).
+**Ziel:** Du unterscheidest Ergebnisverantwortung, formales Mandat und Einfluss. Du formulierst, welche Entscheidungen sie selbst treffen und welche sie herbeiführen müssen. **Quellen:** [B01, B10, A01, A06, A08](../WISSENSQUELLEN.md).
 
 ## Kerngedanke
 
@@ -8,12 +8,12 @@ Im Projekt führt man häufig Menschen, deren Arbeitszeit und Personalentwicklun
 
 Einflussquellen: fachliche Glaubwürdigkeit, zuverlässige Zusagen, Verständnis der Ziele anderer Bereiche, Zugang zu Entscheidern und sichtbarer Umgang mit Problemen. Formale Entscheidungsrechte sind ausdrücklich zu klären; Einfluss ersetzt sie nicht.
 
-## 90 Minuten
+## Persönliche Lerneinheit (ca. 60 Minuten)
 
-1. **10 Min – Einstieg:** Jede Person nennt eine Situation, in der sie für ein Ergebnis verantwortlich war, aber niemandem eine Aufgabe zuweisen konnte.
+1. **10 Min – Einstieg:** Beschreibe eine Situation, in der sie für ein Ergebnis verantwortlich war, aber niemandem eine Aufgabe zuweisen konnte.
 2. **15 Min – Input:** Mandat, Ergebnisverantwortung, fachliche Autorität, Beziehung und Eskalation an einem eigenen Beispiel trennen.
-3. **25 Min – Fallarbeit:** Werkzeugbestellung steht. Entwicklung hat die Zeichnung, Einkauf hat die Bestellung, die Linienleiter vergeben Kapazitäten. In Dreiergruppen festhalten: Was kann der PM entscheiden? Wen muss er gewinnen? Wer muss eine Priorität freigeben?
-4. **25 Min – Rollenspiel:** PM spricht mit der Entwicklungsleitung über eine knappe Freigabekapazität. Beobachter prüft, ob der PM Auswirkung, Bedarf und gewünschte Entscheidung klar nennt.
+3. **25 Min – Fallarbeit:** Werkzeugbestellung steht. Entwicklung hat die Zeichnung, Einkauf hat die Bestellung, die Linienleiter vergeben Kapazitäten. Halte zunächst selbst fest: Was kann der PM entscheiden? Wen muss er gewinnen? Wer muss eine Priorität freigeben?
+4. **25 Min – Gesprächssimulation:** Formuliere dein Gespräch mit der Entwicklungsleitung und lass ChatGPT die Gegenrolle spielen. Prüfe danach Auswirkung, Bedarf und gewünschte Entscheidung.
 5. **15 Min – Transfer:** persönliche Einflusskarte erstellen.
 
 ## Arbeitsauftrag und Ergebnis

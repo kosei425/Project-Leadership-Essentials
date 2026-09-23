@@ -8,12 +8,12 @@ Direkte Anleitung, gemeinsames Durchdenken, Unterstützung und eigenständige Um
 
 Die sechs Stile aus Golemans Artikel können als Gesprächsanlass dienen; sie sind keine Messskala für die Qualität einer Führungskraft. Selbstwahrnehmung und Emotionsregulation helfen besonders unter Zeitdruck.
 
-## 90 Minuten
+## Persönliche Lerneinheit (ca. 60 Minuten)
 
 1. **10 Min – Einstieg:** Zwei Personen aus dem Fall: neue Prozessingenieurin im Werk und erfahrener Entwicklungsleiter.
 2. **15 Min – Input:** Klarheit über Ergebnis und Risiko; dann angemessenen Grad an Anleitung, Rückfragen und Autonomie wählen.
-3. **25 Min – Partnerübung:** Für beide Personen denselben Auftrag „Freigabe bis Donnerstag“ formulieren; Unterstützung und Kontrollpunkt unterschiedlich festlegen.
-4. **25 Min – Rollenspiel:** Nach neuer Information (Kundenänderung am Mittwoch) Führungsverhalten erneut wählen und begründen.
+3. **25 Min – Einzelübung:** Für beide Personen denselben Auftrag „Freigabe bis Donnerstag“ formulieren; Unterstützung und Kontrollpunkt unterschiedlich festlegen.
+4. **25 Min – Selbstprüfung:** Nach einer neuen Information (Kundenänderung am Mittwoch) deinen Ansatz erneut wählen und begründen; lass ChatGPT eine Gegenposition einnehmen.
 5. **15 Min – Transfer:** einen eigenen Auftrag neu zuschneiden.
 
 ## Entscheidungsfragen
